@@ -1,0 +1,80 @@
+IP                   : 2409:4060:418:36e5::2707:20a0
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:40e0:6:4c65:8000::
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+IP                   : 2409:4060:418:36e5::2707:20a0
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:40e0:6:4c65:8000::
+IP Type              : IPv6
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+IP                   : 2409:4060:210d:da8d::117b:20a4
+IP Type              : IPv6
+User OS              : Android
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:4060:210d:da8d::117b:20a4
+IP Type              : IPv6
+User OS              : Android
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:4060:210d:da8d::117b:20a4
+IP Type              : IPv6
+User OS              : Android
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:4060:210d:da8d::117b:20a4
+IP Type              : IPv6
+User OS              : Android
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Kolkata, India, Asia
+GeoLocation(lat, lon): 22.572646, 88.363895
+Currency             : Indian Rupee
+IP                   : 2409:40e0:6:4c65:8000::
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+IP                   : 2409:40e0:6:4c65:8000::
+IP Type              : IPv6
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
